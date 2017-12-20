@@ -55,6 +55,7 @@ public class TimerTest {
     public static void testSchedule3(){
         Timer timer = new Timer();
         timer.schedule(new TimerTask() {
+
             @Override
             public void run() {
                 System.out.println("输出....");

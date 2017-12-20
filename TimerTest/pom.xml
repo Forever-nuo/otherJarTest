@@ -13,13 +13,13 @@
     <groupId>allPom</groupId>
     <artifactId>TimerTest</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>net.sourceforge.groboutils</groupId>
-            <artifactId>groboutils-core</artifactId>
-            <version>RELEASE</version>
-        </dependency>
-    </dependencies>
+<dependencies>
+    <dependency>
+        <groupId>net.sourceforge.groboutils</groupId>
+        <artifactId>groboutils-core</artifactId>
+        <version>RELEASE</version>
+    </dependency>
+</dependencies>
 
 
 </project>
